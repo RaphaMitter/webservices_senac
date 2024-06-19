@@ -1,0 +1,11 @@
+CREATE TABLE tbl_produtos{
+id_produto INT AUTO_INCREMENT,
+id_categoria INT,
+nome_produto VARCHAR(50),
+preco FLOAT,
+descricao VARCHAR(255),
+imagem VARCHAR(50),
+id_status INT,
+data_cadastro DATETIME,
+data_atualizacao DATETIME
+}

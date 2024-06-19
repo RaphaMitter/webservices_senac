@@ -1,0 +1,4 @@
+id_status INT AUTO_INCREMENT
+nome_status VARCHAR(50)
+data_cadastro DATETIME
+data_atualizacao DATETIME
